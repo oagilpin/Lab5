@@ -1,0 +1,10 @@
+project:
+title: "Lab 5 Proposals"
+authors: "Olivia Gilpin & Josh Ray"
+output-dir: docs
+format:
+  html:
+   self-contained: true
+editor: visual
+
+  
